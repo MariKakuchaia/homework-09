@@ -175,13 +175,6 @@ button{
 .margin-top{
     margin-top: 50px;
 }
-.blue-span-text{
-    color:#0A22F4;
-}
-.font-size{
-    font-size: 16px;
-    font-family: 'Helvetica Neue';
-}
 .width{
     width: 405px;
 }
@@ -192,6 +185,13 @@ button{
 .display-flex-wrap{
     display: flex;
     flex-wrap: wrap;
+}
+.color{
+    color: #171717;
+    font-family: 'Helvetica Neue';
+}
+.blue-span-text{
+    color:#0A22F4;
 }
 .images-box{
     width: 500px;
