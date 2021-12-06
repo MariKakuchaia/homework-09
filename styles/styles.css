@@ -16,7 +16,7 @@ ul{
     max-width: 100%;
     margin: auto;
     display: flex;
-    align-items: center;
+    align-items:flex-end;
 }
 .container_T{
     display: flex;
@@ -86,13 +86,15 @@ h4{
     border-left-style: hidden;
     border-bottom-style: groove;
     background-color:blue;
-
+    border-bottom-color: white;
+    opacity: 30%;
 }
 button{
     padding: 18px 45px 18px 36px;
     font-family: 'Helvetica Neue';
     font-size: 16px;
     background-color: white;
+    border: none;
 }
 .button_move{
     display: flex;
@@ -166,6 +168,34 @@ button{
     font-size: 18px;
     color: #171717;
     text-align: right;
+}
+.d-i-b{
+    display: inline-block;
+}
+.footer_smartweb{
+    display: flex;
+    align-items: center;
+}
+.footer_div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #FFFFFF;
+    margin: 0 100px;
+    padding-top:100px;
+}
+.footer_T{
+    width: 1920px;
+    max-width: 100%;
+    background-color: blue;
+    margin: auto;
+    padding-bottom:40px;
+}
+.footerlogo{
+    margin:0 10px;
+}
+.registration{
+    margin-left:200px
 }
 .container{
     max-width: 1200px;
