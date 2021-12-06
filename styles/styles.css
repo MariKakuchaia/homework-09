@@ -197,3 +197,55 @@ button{
 .registration{
     margin-left:200px
 }
+.container{
+    max-width: 1200px;
+    width: 100%;
+    margin: 0%auto;
+}
+.margin-top{
+    margin-top: 50px;
+}
+.width{
+    width: 405px;
+}
+.title-2{
+    color: #171717;
+    font-family: 'Helvetica Neue';
+}
+.display-flex-wrap{
+    display: flex;
+    flex-wrap: wrap;
+}
+.color{
+    color: #171717;
+    font-family: 'Helvetica Neue';
+}
+.blue-span-text{
+    color:#0A22F4;
+}
+.images-box{
+    width: 500px;
+    justify-content: space-between;
+}
+.little-img{
+     width: 150px;
+     margin-top: 25px;
+}
+.justify-space-between{
+    justify-content: space-between;
+}
+.blue-circles{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    display: block;
+    background-color: #0A22F4;
+    opacity: 0.3;
+    margin: 5px;
+}
+.blue{
+    opacity: 1;
+}
+.second-sec{
+    margin: 200px 0px 180px 0px;
+}
